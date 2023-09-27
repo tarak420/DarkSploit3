@@ -1,0 +1,23 @@
+h1 {
+    color:azure;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color: cornsilk;
+}
+
+body{
+    background-image: url(pic3.jgp.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 1300px 1000px;
+}
+marquee{
+    color: white;
+}  
+p{
+    color: white;
+    text-align: center;
+}
